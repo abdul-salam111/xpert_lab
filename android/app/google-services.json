@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "941593656276",
+    "project_id": "myxpertlab-bf2a4",
+    "storage_bucket": "myxpertlab-bf2a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941593656276:android:238c204499a363f2b33441",
+        "android_client_info": {
+          "package_name": "com.example.xpert_lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941593656276-htdjdfrtm4bp9vb2mvmsq8e1env6513p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xpert_lab",
+            "certificate_hash": "21cb44513563b8e8f0050567604cf4147d9a1a79"
+          }
+        },
+        {
+          "client_id": "941593656276-jtk42utjncbrufrqd075942ghhablkju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFIzXSEVp78AzPmYfOxEGJri3PN1EkDa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941593656276-jtk42utjncbrufrqd075942ghhablkju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+import 'package:flutter/material.dart';
+import 'package:flutter_screenutil/flutter_screenutil.dart';
+const crossstart=CrossAxisAlignment.start;
+var textfieldpadding= EdgeInsets.symmetric(vertical: 5.h, horizontal: 10.w);
+const  crosscenter=CrossAxisAlignment.center;
+const mainstart=MainAxisAlignment.start;
+const maincenter=MainAxisAlignment.center;
+const mainspbet=MainAxisAlignment.spaceBetween;
+const mainspar=MainAxisAlignment.spaceAround;
+const bouncing= BouncingScrollPhysics();

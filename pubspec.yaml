@@ -1,0 +1,58 @@
+name: xpert_lab
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  flutter: 
+    sdk: flutter
+  firebase_core: ^2.10.0
+  firebase_auth: ^4.4.2
+  velocity_x: ^3.6.0
+  flutter_screenutil: ^5.7.0
+  introduction_screen: ^3.1.8
+  date_picker_timeline: ^1.2.3
+  time_range: ^1.1.0
+  shared_preferences: ^2.1.2
+  cloud_firestore: ^4.8.1
+  fluttertoast: ^8.2.2
+  nanoid: ^1.0.0
+  cached_network_image: ^3.2.3  
+  flutter_local_notifications: ^15.1.0+1
+  firebase_messaging: ^14.6.4
+  firebase_analytics: ^10.4.3
+  flutter_rating_bar: ^4.0.1
+  badges: ^3.1.1
+  dropdown_button2: ^2.3.7
+  pdf: ^3.10.4
+  path_provider: ^2.1.0
+  open_file: ^3.3.2
+
+
+  
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+    
+
+
+flutter: 
+  assets: 
+    - assets/
+    - assets/images/
+    - assets/icons/
+  fonts:
+    - family: Roboto-Bold
+      fonts:
+        - asset: assets/fonts/Roboto-Bold.ttf
+    
+    
+    
+  uses-material-design: true
+

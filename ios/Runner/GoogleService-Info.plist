@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>941593656276-flgkkv8m6q578f3i2gnag4edsmfsti1n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.941593656276-flgkkv8m6q578f3i2gnag4edsmfsti1n</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>941593656276-htdjdfrtm4bp9vb2mvmsq8e1env6513p.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC_UqATS-hoNG8w6vNACwfRQMAOQIHCo0A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>941593656276</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.xpertLab</string>
+	<key>PROJECT_ID</key>
+	<string>myxpertlab-bf2a4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>myxpertlab-bf2a4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:941593656276:ios:ee6bb8795fc92b73b33441</string>
+</dict>
+</plist>
